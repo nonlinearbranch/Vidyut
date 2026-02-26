@@ -4,7 +4,7 @@
 
 ![Vidyut Logo](frontend/public/favicon.svg)
 
-## 🌍 Sustainable AI Hackathon Perspective
+##  Sustainable AI Hackathon Perspective
 **Vidyut** strongly aligns with **UN Sustainable Development Goals 7 (Affordable and Clean Energy)** and **9 (Industry, Innovation, and Infrastructure)**. By leveraging Explainable AI to combat electricity theft, Vidyut offers a highly practical, sustainable solution to grid management:
 
 - **Carbon Footprint Reduction:** Electricity theft forces utility companies to over-generate power—often utilizing non-renewable sources to handle the unmetered load. By identifying and stopping theft, Vidyut directly prevents unnecessary carbon emissions and resource waste.
@@ -132,7 +132,7 @@ npm run dev
 ##  Usage Guide
 
 1.  **Launch:** Open the web app at `http://localhost:5173`.
-2.  **Upload Data:** Drag & drop your dataset (single merged CSV or the 5 standard separate files). [Sample](https://www.kaggle.com/datasets/samayrajat/final-electricity-skewed)
+2.  **Upload Data:** Drag & drop your dataset (single merged CSV file). [Sample](https://www.kaggle.com/datasets/samayrajat/final-electricity-skewed)
 3.  **Analyze:** Watch the pipeline process data in real-time.
 4.  **Investigate:**
     -   Check the **Global Map** for Red/Orange pins.

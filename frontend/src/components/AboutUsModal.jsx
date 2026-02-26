@@ -98,6 +98,18 @@ const AboutUsModal = ({ onClose }) => {
                         <h3 style={{ color: '#60a5fa', marginBottom: '0.5rem', fontSize: '1.3rem' }}>The problem we solve</h3>
                         <p>The system helps utilities move from reactive checks to targeted, data-driven inspections, reducing non-technical losses and improving grid visibility while maintaining transparency and control.</p>
                     </div>
+
+                    <div>
+                        <h3 style={{ color: '#60a5fa', marginBottom: '0.5rem', fontSize: '1.3rem' }}>Sustainability</h3>
+                        <p style={{ marginBottom: '1rem' }}>
+                            <strong>Vidyut</strong> strongly aligns with <strong>UN Sustainable Development Goals 7 (Affordable and Clean Energy)</strong> and <strong>9 (Industry, Innovation, and Infrastructure)</strong>. By leveraging Explainable AI to combat electricity theft, Vidyut offers a highly practical, sustainable solution to grid management:
+                        </p>
+                        <ul style={{ paddingLeft: '1.5rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                            <li><strong>Carbon Footprint Reduction:</strong> Electricity theft forces utility companies to over-generate power—often utilizing non-renewable sources to handle the unmetered load. By identifying and stopping theft, Vidyut directly prevents unnecessary carbon emissions and resource waste.</li>
+                            <li><strong>Resource Efficiency:</strong> Vidyut utilizes a lightweight, compute-efficient ML pipeline (Isolation Forests, Z-Scores) rather than heavy, energy-intensive Deep Learning models. This makes the AI itself sustainable and cheap to deploy at scale.</li>
+                            <li><strong>Infrastructure Longevity:</strong> Unmetered connections overload transformers, leading to hardware destruction and localized blackouts. Vidyut's geospatial mapping and transformer loss detection allow grid operators to proactively dispatch maintenance teams, saving the environmental cost of manufacturing and shipping replacement transformers.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

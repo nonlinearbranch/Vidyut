@@ -4,6 +4,13 @@
 
 ![Vidyut Logo](frontend/public/favicon.svg)
 
+## 🌍 Sustainable AI Hackathon Perspective
+**Vidyut** strongly aligns with **UN Sustainable Development Goals 7 (Affordable and Clean Energy)** and **9 (Industry, Innovation, and Infrastructure)**. By leveraging Explainable AI to combat electricity theft, Vidyut offers a highly practical, sustainable solution to grid management:
+
+- **Carbon Footprint Reduction:** Electricity theft forces utility companies to over-generate power—often utilizing non-renewable sources to handle the unmetered load. By identifying and stopping theft, Vidyut directly prevents unnecessary carbon emissions and resource waste.
+- **Resource Efficiency:** Vidyut utilizes a lightweight, compute-efficient ML pipeline (Isolation Forests, Z-Scores) rather than heavy, energy-intensive Deep Learning models. This makes the AI itself sustainable and cheap to deploy at scale.
+- **Infrastructure Longevity:** Unmetered connections overload transformers, leading to hardware destruction and localized blackouts. Vidyut's geospatial mapping and transformer loss detection allow grid operators to proactively dispatch maintenance teams, saving the environmental cost of manufacturing and shipping replacement transformers.
+
 ##  Key Features
 
 ###  Multi-Layer Anomaly Detection
